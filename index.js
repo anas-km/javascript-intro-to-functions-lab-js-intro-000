@@ -15,5 +15,5 @@ console.log("HELLO");
 
 function logWhisper(string) {
   console.log("hello");
-  
+
 }
