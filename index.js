@@ -8,6 +8,6 @@ function whisper(string) {
   return string.toLowerCase();
 }
 
-function functionName() {
+function logShout(string) {
 
 }
